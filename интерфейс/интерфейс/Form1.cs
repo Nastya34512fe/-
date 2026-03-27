@@ -107,7 +107,7 @@ namespace интерфейс
                  else if (selectedItem == "Числа")
                 {
                     groupBox3.Visible = false;
-                    groupBox4.Visible = true;
+                    groupBox4.Visible = false;
                     groupBox5.Visible = false;
                 }
                 else if (selectedItem == "Даты")
