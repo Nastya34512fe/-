@@ -42,7 +42,7 @@ namespace интерфейс
 
                 if (ofd.ShowDialog() == DialogResult.OK)
                 {
-                    textBox1.Text = ;
+                    textBox1.Text =  ;
                     
                 }
             }
