@@ -15,7 +15,7 @@ namespace интерфейс
 {
     public partial class Form1 : Form
     {
-        private string FileText;
+        private string Filetext;
         public Form1()
         {
             InitializeComponent();
