@@ -61,7 +61,7 @@ namespace интерфейс
         {
             for (int i = 0; i < checkedListBox1.Items.Count; i++)
             {
-                checkedListBox1.SetItemChecked(i, false);
+                checkedListBox1.SetItemChecked(i, true);
             }
         }
 
