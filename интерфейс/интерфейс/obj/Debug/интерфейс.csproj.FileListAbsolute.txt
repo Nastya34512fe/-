@@ -1,0 +1,11 @@
+C:\Users\user\Documents\VS\интерфейс\интерфейс\bin\Debug\интерфейс.exe.config
+C:\Users\user\Documents\VS\интерфейс\интерфейс\bin\Debug\интерфейс.exe
+C:\Users\user\Documents\VS\интерфейс\интерфейс\bin\Debug\интерфейс.pdb
+C:\Users\user\Documents\VS\интерфейс\интерфейс\obj\Debug\интерфейс.csproj.AssemblyReference.cache
+C:\Users\user\Documents\VS\интерфейс\интерфейс\obj\Debug\интерфейс.Form1.resources
+C:\Users\user\Documents\VS\интерфейс\интерфейс\obj\Debug\интерфейс.Properties.Resources.resources
+C:\Users\user\Documents\VS\интерфейс\интерфейс\obj\Debug\интерфейс.csproj.GenerateResource.cache
+C:\Users\user\Documents\VS\интерфейс\интерфейс\obj\Debug\интерфейс.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\VS\интерфейс\интерфейс\obj\Debug\интерфейс.exe
+C:\Users\user\Documents\VS\интерфейс\интерфейс\obj\Debug\интерфейс.pdb
+C:\Users\user\Documents\VS\интерфейс\интерфейс\obj\Debug\интерфейс.exe.config
